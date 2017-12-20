@@ -1,0 +1,14 @@
+body {
+	/* background REPLACE THIS! */
+	background-image: url("../pictures/background.jpg");
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+
+#head {
+	text-align: center;
+
+	/* font */
+	font-family: georgia;
+	font-size: 200%;
+}

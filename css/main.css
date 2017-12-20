@@ -1,0 +1,18 @@
+body {
+	/* font */
+	font-family: georgia;
+	font-size: 200%;
+	/* Background */
+	background-image: url("../pictures/background.jpg");
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+
+#head {
+	text-align: center;
+}
+
+#body {
+	width:800px; 
+	margin:0 auto;
+}
